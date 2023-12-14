@@ -35,6 +35,6 @@ in any case you can now access your web app here : [http://localhost](http://loc
 
 your django admin panel is located here [http://admin.localhost](http://admin.localhost)
 
-you also have a default subdomain for your apis here [http://api.localhost](http://api.localhost) but for the moment it doesn't contain any view
+you also have a default subdomain for your apis here [http://api.localhost](http://api.localhost) but for the moment it doesn't contain any view (in dev mode you can still see django's default view)
 
 good hacking !
