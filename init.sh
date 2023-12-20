@@ -335,6 +335,8 @@ echo "services:
       file: compose.base.yml
       service: frontend-react
     command: ['npm', 'start']
+    port:
+      - 3000:3000
     volumes:
       - ../webapp-react:/code
     environment:
